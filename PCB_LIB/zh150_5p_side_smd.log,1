@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : ZH150_5P_SIDE_SMD.dra                         )
+(    Software Version : 17.0P009                                      )
+(    Date/Time        : Tue Jan 17 10:56:45 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/FPM/lib
+    Name      = zh150_5p_side_smd.psm
+    User      = jacob_sun
+    Machine   = DESKTOP-V2CO3FS
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

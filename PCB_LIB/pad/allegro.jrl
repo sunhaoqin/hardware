@@ -1,0 +1,120 @@
+\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Sep 26 16:36:23 2017
+\t (00:00:01)         Host=DESKTOP-B84TUF4 User=jacob.sun Pid=15476 CPUs=4
+\t (00:00:01) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe D:\jacob_lib\FPM\lib\pad\ti-ther.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: D:/jacob_lib/FPM/lib/pad/ti-ther.dra
+\i (00:00:03) trapsize 859
+\i (00:00:04) trapsize 891
+\i (00:00:04) trapsize 891
+\i (00:00:04) trapsize 846
+\i (00:00:04) generaledit 
+\i (00:00:29) pick grid -5.1727 -1.3333
+\t (00:00:29) last pick:  -5.0800 -1.2700
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 0.2734 -0.3862
+\i (00:00:30) trapsize 423
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 0.2734 -0.3861
+\i (00:00:30) trapsize 211
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 0.0366 -0.6651
+\i (00:00:30) trapsize 106
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 0.0155 -0.6419
+\i (00:00:31) trapsize 53
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 0.0166 -0.6387
+\i (00:00:31) trapsize 26
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 0.0040 -0.6324
+\i (00:00:31) trapsize 13
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 0.0006 -0.6329
+\i (00:00:32) trapsize 26
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 0.0006 -0.6329
+\i (00:00:32) trapsize 53
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 0.0006 -0.6329
+\i (00:00:32) trapsize 106
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 0.0006 -0.6330
+\i (00:00:32) trapsize 211
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 0.0005 -0.6330
+\i (00:00:32) trapsize 423
+\i (00:00:34) move 
+\t (00:00:34) Select element(s) to move.
+\i (00:00:35) drag_start grid -1.9192 0.3565
+\i (00:00:36) drag_stop 4.3134 -2.1551
+\t (00:00:36) last pick:  4.3134 -2.1551
+\t (00:00:36) Element has no origin, using pick.
+\t (00:00:36) Pick new location for the element(s).
+\i (00:00:36) pick grid 4.3134 -2.1551
+\t (00:00:36) last pick:  4.4450 -1.9050
+\i (00:00:37) Esc 
+\i (00:09:15) zoom out 1 
+\i (00:09:15) setwindow pcb
+\i (00:09:15) zoom out 1.2098 -0.1847
+\i (00:09:15) trapsize 846
+\i (00:09:15) zoom out 1 
+\i (00:09:15) setwindow pcb
+\i (00:09:15) zoom out 1.2606 -0.3201
+\i (00:09:15) trapsize 1691
+\i (00:09:16) zoom in 1 
+\i (00:09:16) setwindow pcb
+\i (00:09:16) zoom in 1.3620 -0.3538
+\i (00:09:16) trapsize 846
+\i (00:09:16) zoom in 1 
+\i (00:09:16) setwindow pcb
+\i (00:09:16) zoom in 1.3113 -0.2015
+\i (00:09:16) trapsize 423
+\i (00:09:16) zoom out 1 
+\i (00:09:16) setwindow pcb
+\i (00:09:16) zoom out 1.2944 -0.1677
+\i (00:09:16) trapsize 846
+\i (00:09:16) zoom out 1 
+\i (00:09:16) setwindow pcb
+\i (00:09:16) zoom out 1.2943 -0.1677
+\i (00:09:16) trapsize 1691
+\i (00:09:32) pick grid 6.5376 -6.1550
+\t (00:09:32) last pick:  6.3500 -6.3500
+\i (00:12:30) zoom in 1 
+\i (00:12:30) setwindow pcb
+\i (00:12:30) zoom in 1.1253 0.0015
+\i (00:12:30) trapsize 846
+\i (00:12:30) zoom in 1 
+\i (00:12:30) setwindow pcb
+\i (00:12:30) zoom in 1.1253 0.0015
+\i (00:12:30) trapsize 423
+\i (00:12:30) zoom in 1 
+\i (00:12:30) setwindow pcb
+\i (00:12:30) zoom in 1.1253 0.0015
+\i (00:12:30) trapsize 211
+\i (00:12:30) zoom out 1 
+\i (00:12:30) setwindow pcb
+\i (00:12:30) zoom out 1.1169 -0.0196
+\i (00:12:30) trapsize 423
+\i (00:12:31) roam start
+\i (00:12:31) roam x 80
+\i (00:12:32) roam x 32
+\i (00:12:32) roam y 16
+\i (00:12:32) roam end
+\i (00:13:38) exit 
+\e (00:13:38) Do you want to save the changes you made to ti-ther.dra?
+\i (00:13:39) fillin no 
+\t (00:13:39)     Journal end - Tue Sep 26 16:50:01 2017

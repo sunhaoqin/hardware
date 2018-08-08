@@ -1,0 +1,32 @@
+\t (00:00:02) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Wed May 30 11:16:58 2018
+\t (00:00:02)         Host=DESKTOP-B84TUF4 User=jacob.sun Pid=19368 CPUs=4
+\t (00:00:02) CmdLine= c:\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe D:\jacob_lib\FPM\lib\BTN665.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:03) fillin yes 
+\d (00:00:03) Design opened: D:/jacob_lib/FPM/lib/BTN665.dra
+\t (00:00:03) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:00:03) trapsize 96
+\i (00:00:04) trapsize 99
+\t (00:00:04) Grids are drawn 0.160, 0.160 apart for enhanced viewability.
+\i (00:00:04) trapsize 147
+\i (00:00:04) trapsize 139
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -3.823 0.838
+\t (00:00:06) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:00:06) trapsize 70
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -3.823 0.838
+\t (00:00:06) Grids are drawn 0.040, 0.040 apart for enhanced viewability.
+\i (00:00:06) trapsize 35
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -3.823 0.838
+\t (00:00:07) Grids are drawn 0.080, 0.080 apart for enhanced viewability.
+\i (00:00:07) trapsize 70
+\i (00:00:10) exit 
+\t (00:00:10)     Journal end - Wed May 30 11:17:06 2018

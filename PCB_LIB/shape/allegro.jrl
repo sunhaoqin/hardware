@@ -1,0 +1,23 @@
+\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Sep 26 17:45:35 2017
+\t (00:00:01)         Host=DESKTOP-B84TUF4 User=jacob.sun Pid=9388 CPUs=4
+\t (00:00:01) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe D:\jacob_lib\FPM\lib\shape\figers.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: D:/jacob_lib/FPM/lib/shape/figers.dra
+\i (00:00:03) trapsize 388
+\i (00:00:03) trapsize 402
+\i (00:00:04) trapsize 402
+\i (00:00:04) trapsize 382
+\i (00:00:04) generaledit 
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in -0.0341 -0.2368
+\i (00:00:04) trapsize 191
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in -0.0340 -0.2367
+\i (00:00:04) trapsize 95
+\i (00:00:05) exit 
+\t (00:00:05)     Journal end - Tue Sep 26 17:45:39 2017

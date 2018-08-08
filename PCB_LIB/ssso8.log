@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SSSO8.dra                                     )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Mon Aug 28 17:18:43 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/jacob_lib/FPM/lib
+    Name      = ssso8.psm
+    User      = jacob.sun
+    Machine   = DESKTOP-B84TUF4
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

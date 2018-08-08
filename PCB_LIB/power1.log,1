@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : power1.dra                                    )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Mon Aug 28 16:30:35 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/jacob_lib/FPM/lib
+    Name      = power1.psm
+    User      = jacob.sun
+    Machine   = DESKTOP-B84TUF4
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

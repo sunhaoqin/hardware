@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : bq5013b.dra                                   )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Wed Sep 27 11:43:05 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/jacob_lib/FPM/lib
+    Name      = bq5013b.psm
+    User      = jacob.sun
+    Machine   = DESKTOP-B84TUF4
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

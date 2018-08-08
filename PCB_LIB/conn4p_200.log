@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CONN4P_200.dra                                )
+(    Software Version : 17.0P009                                      )
+(    Date/Time        : Tue Jan 17 16:52:53 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/FPM/lib
+    Name      = conn4p_200.psm
+    User      = jacob_sun
+    Machine   = DESKTOP-V2CO3FS
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

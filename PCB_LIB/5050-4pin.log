@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : 5050-4pin.dra                                 )
+(    Software Version : 17.0P009                                      )
+(    Date/Time        : Tue Jul 05 18:12:52 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/FPM/lib
+    Name      = 5050-4pin.psm
+    User      = jacob_sun
+    Machine   = DESKTOP-V2CO3FS
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

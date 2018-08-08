@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : idboard.dra                                   )
+(    Software Version : 17.0P009                                      )
+(    Date/Time        : Fri Jun 24 11:34:33 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = D:/FPM/lib
+    Name      = idboard.bsm
+    User      = jacob_sun
+    Machine   = DESKTOP-V2CO3FS
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

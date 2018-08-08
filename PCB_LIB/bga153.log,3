@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : BGA153.dra                                    )
+(    Software Version : 17.0P009                                      )
+(    Date/Time        : Fri Oct 14 11:04:14 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/FPM/lib
+    Name      = bga153.psm
+    User      = jacob_sun
+    Machine   = DESKTOP-V2CO3FS
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

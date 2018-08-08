@@ -1,0 +1,66 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\bjt.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\bjt.olb")
+      (Select "Design Resources" ".\bjt.olb" "PH9025"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 464"))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1316 0 503")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "2943 1416")
+        (Zoom "504"))
+      (Path "D:\JACOB_LIB\ORCADLIB\BJT\BJT.OLB")
+      (Package "PH9025"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1342 26 529")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "4292 1472")
+        (Zoom "779"))
+      (Path "D:\JACOB_LIB\ORCADLIB\BJT\BJT.OLB")
+      (Package "S8050"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1368 52 555")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "4339 1472")
+        (Zoom "779"))
+      (Path "D:\JACOB_LIB\ORCADLIB\BJT\BJT.OLB")
+      (Package "2SD1899"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1394 78 581")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "2976 840")
+        (Zoom "568"))
+      (Path "D:\JACOB_LIB\ORCADLIB\BJT\BJT.OLB")
+      (Package "2N7002"))))
